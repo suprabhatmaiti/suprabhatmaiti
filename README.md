@@ -1,13 +1,15 @@
 <div align="center">
-
-
-  <img src="https://avatars.githubusercontent.com/u/56217164?s=400&u=7fc53e3da4e32f3bd5ef4ce633d8c59315663bd1&v=4]" width="200" height="200" style="border-radius: 50%; border: 4px solid #00D8FF;" alt="suprabhat maiti Profile Picture">
+  
+  <!-- PROFILE PICTURE (Corrected link and style) -->
+  <img src="https://avatars.githubusercontent.com/u/56217164?s=400&u=7fc53e3da4e32f3bd5ef4ce633d8c59315663bd1&v=4" width="200" height="200" style="border-radius: 50%; border: 4px solid #00D8FF;" alt="Suprabhat Maiti Profile Picture">
   
   # Hi, I'm Suprabhat Maiti 👋
   
   ### Full-Stack Developer | Building Scalable, Secure, and Real-time Applications
 
 ---
+  
+</div>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/suprabhat-maiti/">
@@ -51,8 +53,7 @@
 
 ### 🚀 Auction Central: Real-Time Bidding Platform
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101)
 
 A full-stack, transactional online auction system built to handle high-frequency, real-time bidding using WebSockets.
 
@@ -61,7 +62,7 @@ A full-stack, transactional online auction system built to handle high-frequency
 | **Real-Time** | Instant bid updates using **Socket.IO** with server-side sequence (`seq`) tracking for data consistency.    |
 | **Integrity** | **PostgreSQL Transactions** (`BEGIN`/`COMMIT`) ensure atomic bidding logic.                                 |
 | **Stability** | **Anti-Sniping Logic** dynamically extends the auction end time when a bid is placed close to the deadline. |
-| **Stack**     | `React` · `Node/Express` · `Socket.IO` · `PostgreSQL` · `Multer/Sharp` (Image Handling)                     |
+| **Backend**   | Robust API design featuring image compression and JWT-protected endpoints.                                  |
 
 ---
 
@@ -74,9 +75,9 @@ A modern, secure CRUD application for task management with a focus on protected 
 | **Focus**        | **Key Technical Feature**                                                                                          |
 | :--------------- | :----------------------------------------------------------------------------------------------------------------- |
 | **Security**     | Implements robust **JWT + Refresh Token** authentication handled via HTTP-only cookies.                            |
-| **Data Flow**    | Dedicated **Services** (`taskServices.js`) decouple UI from API calls, and **Reducers** manage complex form state. |
+| **Data Flow**    | Dedicated **Services** decouple UI from API calls, and **Reducers** manage complex form state.                     |
 | **Architecture** | Clearly segregated `src/client` and `src/server` directories ensure a scalable, maintainable codebase.             |
-| **Stack**        | `React` · `Node/Express` · `PostgreSQL` · `JWT` ·                                                                  |
+| **Filtering**    | Comprehensive server-side filtering and pagination for task lists by date, search term, and priority.              |
 
 ---
 
@@ -84,9 +85,9 @@ A modern, secure CRUD application for task management with a focus on protected 
 
 <p>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suprabhatmaiti&layout=compact&theme=vue-dark&hide_border=true" alt="Your Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suprabhatmaiti&layout=compact&theme=vue-dark&hide_border=true" alt="My Top Languages" />
 
 **Thanks for stopping by!**
 
 </p>
-</div>
+```
