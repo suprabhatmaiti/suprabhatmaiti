@@ -1,7 +1,5 @@
 <div align="center">
-  
-  <!-- PROFILE PICTURE (Corrected link and style) -->
-  <img src="https://avatars.githubusercontent.com/u/56217164?s=400&u=7fc53e3da4e32f3bd5ef4ce633d8c59315663bd1&v=4" width="200" height="200" style="border-radius: 50%; border: 4px solid #00D8FF;" alt="Suprabhat Maiti Profile Picture">
+  <img src="https://avatars.githubusercontent.com/u/56217164?s=400&u=7fc53e3da4e32f3bd5ef4ce633d8c59315663bd1&v=4" width="300" height="300" style="border-radius: 50%; border: 4px solid #00D8FF;" alt="Suprabhat Maiti Profile Picture">
   
   # Hi, I'm Suprabhat Maiti 👋
   
@@ -63,7 +61,7 @@ A full-stack, transactional online auction system built to handle high-frequency
 | **Integrity** | **PostgreSQL Transactions** (`BEGIN`/`COMMIT`) ensure atomic bidding logic.                                 |
 | **Stability** | **Anti-Sniping Logic** dynamically extends the auction end time when a bid is placed close to the deadline. |
 | **Backend**   | Robust API design featuring image compression and JWT-protected endpoints.                                  |
-
+- [**Repo Link**](https://github.com/suprabhatmaiti/auction)
 ---
 
 ### 📋 TaskFlow: Secure Task Management Dashboard
@@ -79,15 +77,20 @@ A modern, secure CRUD application for task management with a focus on protected 
 | **Architecture** | Clearly segregated `src/client` and `src/server` directories ensure a scalable, maintainable codebase.             |
 | **Filtering**    | Comprehensive server-side filtering and pagination for task lists by date, search term, and priority.              |
 
+
+ - [**Repo Link**](https://github.com/suprabhatmaiti/TaskFlow)
+
 ---
 
+<!-- 
 ## 📊 My GitHub Stats
 
+<a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suprabhatmaiti&layout=compact&theme=vue-dark&hide_border=true" alt="My Top Languages" />
+  </a>
+  -->
 <p>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suprabhatmaiti&layout=compact&theme=vue-dark&hide_border=true" alt="My Top Languages" />
-
 **Thanks for stopping by!**
-
 </p>
 ```
