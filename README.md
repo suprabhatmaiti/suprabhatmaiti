@@ -1,7 +1,7 @@
 <div align="center">
 
 
-  <img src="https://avatars.githubusercontent.com/u/56217164?s=400&u=7fc53e3da4e32f3bd5ef4ce633d8c59315663bd1&v=4]" width="150" height="150" style="border-radius: 50%; border: 4px solid #00D8FF;" alt="[Your Name] Profile Picture">
+  <img src="https://avatars.githubusercontent.com/u/56217164?s=400&u=7fc53e3da4e32f3bd5ef4ce633d8c59315663bd1&v=4]" width="200" height="200" style="border-radius: 50%; border: 4px solid #00D8FF;" alt="suprabhat maiti Profile Picture">
   
   # Hi, I'm Suprabhat Maiti 👋
   
