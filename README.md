@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/56217164?s=400&u=7fc53e3da4e32f3bd5ef4ce633d8c59315663bd1&v=4" width="300" height="300" style="border-radius: 50%; border: 4px solid #00D8FF;" alt="Suprabhat Maiti Profile Picture">
+  <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/56217164?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" alt="Suprabhat Maiti Profile Picture">
   
   # Hi, I'm Suprabhat Maiti 👋
   
