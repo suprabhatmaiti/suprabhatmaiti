@@ -30,10 +30,12 @@
 <img align="left" alt="Coding" width="350" src="./octocat.png">
 
 ```javascript
-cconst Suprabhat = {
+const Suprabhat = {
   location: "India",
-  background: "Full-Stack Developer with a passion for quality-driven development",
-  focus: "Building robust applications, ensuring software reliability, and optimizing user experience",
+  background:
+    "Full-Stack Developer with a passion for quality-driven development",
+  focus:
+    "Building robust applications, ensuring software reliability, and optimizing user experience",
   learning: ["System Design", "Automated Testing"],
   hobbies: ["Coding", "Debugging", "Litening Music"],
 };
