@@ -53,6 +53,7 @@ skills();
 <!-- https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif -->
 
 </div>
+<div>
 
 ### 🛠️ Tech Stack & Tools
 
@@ -112,6 +113,9 @@ skills();
 
 ---
 
+</div>
+<div>
+
 ## 💡 Featured Projects
 
 ### 🚀 Auction Central: Real-Time Bidding Platform
@@ -145,6 +149,7 @@ A modern, secure CRUD application for task management with a focus on protected 
 | **Filtering**    | Comprehensive server-side filtering and pagination for task lists by date, search term, and priority.  |
 
 - [**Repo Link**](https://github.com/suprabhatmaiti/TaskFlow)
+</div>
 
 ---
 
