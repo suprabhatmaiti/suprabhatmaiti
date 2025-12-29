@@ -24,7 +24,7 @@
 </div>
 <div>
 
-<img align="left" alt="Coding" width="50%" src="./octocat.png" />
+<img align="left" alt="Coding" width="40%" src="./octocat.png" />
 
 ```javascript
 const Suprabhat = {
