@@ -25,7 +25,7 @@
 </div>
 <div>
 
-<img align="left" alt="Coding" width="100%" src="./octocat.png" />
+<img align="left" alt="Coding" width="50%" src="./octocat.png" />
 
 ```javascript
 const Suprabhat = {
@@ -50,7 +50,8 @@ skills();
 
 <!-- https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif -->
 
-</div>
+## </div>
+
 <div>
 
 ### 🛠️ Tech Stack & Tools
