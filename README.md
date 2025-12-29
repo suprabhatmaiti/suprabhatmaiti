@@ -1,7 +1,7 @@
-![Banner GitHub](./github-banner.png)
-
+<!-- ![Banner GitHub](./github-banner.png) -->
+<img src="https://ishan-rest.vercel.app/svg/banner/dev4/SuprabhatMaiti" width="100%" />
 <div align="center">
-  <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/56217164?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" alt="Suprabhat Maiti Profile Picture">
+  <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/56217164?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" alt="Suprabhat Maiti Profile Picture" width="30%">
   
   ## Hi, I'm Suprabhat Maiti <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30" />
   
@@ -27,7 +27,7 @@
 
 <!-- <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"> -->
 
-<img align="left" alt="Coding" width="350" src="./octocat.png">
+<img align="left" alt="Coding" width="50%" src="./octocat.png" />
 
 ```javascript
 const Suprabhat = {
@@ -166,7 +166,7 @@ A modern, secure CRUD application for task management with a focus on protected 
 [![](https://visitcount.itsvg.in/api?id=suprabhatmaiti&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+Enjoy+Your+Day+~!;" alt="mystreak"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+Enjoy+Your+Day+~!" alt="mystreak"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
