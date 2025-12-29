@@ -25,9 +25,7 @@
 </div>
 <div>
 
-<!-- <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"> -->
-
-<img align="left" alt="Coding" width="50%" src="./octocat.png" />
+<img align="left" alt="Coding" width="100%" src="./octocat.png" />
 
 ```javascript
 const Suprabhat = {
