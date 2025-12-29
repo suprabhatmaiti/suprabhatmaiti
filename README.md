@@ -1,5 +1,4 @@
-<!-- ![Banner GitHub](./github-banner.png) -->
-<img src="https://ishan-rest.vercel.app/svg/banner/dev4/SuprabhatMaiti" width="100%" />
+<img src="https://ishan-rest.vercel.app/svg/banner/dev7/SuprabhatMaiti/Full-Stack-Developer" width="100%" />
 <div align="center">
   <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/56217164?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" alt="Suprabhat Maiti Profile Picture" width="30%">
   
